@@ -13,8 +13,8 @@ Pod::Spec.new do |spec|
   spec.homepage = 'https://github.com/facebook/folly'
   spec.summary = 'An open-source C++ library developed and used at Facebook.'
   spec.authors = 'Facebook'
-  spec.source = { :git => 'https://github.com/facebook/folly.git',
-                  :tag => "v#{folly_release_version}" }
+  spec.source = { :git => 'https://github.com/ashish03399/react-native-ios-dependecies.git',
+                  }
   spec.module_name = 'folly'
   spec.header_mappings_dir = '.'
   spec.dependency 'boost'
